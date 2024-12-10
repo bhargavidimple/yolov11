@@ -20,9 +20,5 @@ Prerequisites
     - `opencv`
     - `ultralytics` (for YOLOv5)
 
- Setup
-
-1. Clone the Repository:
-   Clone this repository to your local machine using the following command:
 
 
